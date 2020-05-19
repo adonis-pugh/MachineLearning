@@ -4,7 +4,7 @@ Compilation of Python code from machine learning course.
 P-Set 1
 --------
 Linear Classifiers: logistic regression w/ Newton's method and gaussian
-    discriminant analysis (GDA)\
+    discriminant analysis (GDA)\\
 Generalized Linear Models (GLMs): poission regression\
 Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
     and overfitting analysis on small datasets\
