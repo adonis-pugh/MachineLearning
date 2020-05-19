@@ -3,10 +3,10 @@ Compilation of Python code from machine learning course.
 
 P-Set 1
 --------
-#Linear Classifiers: logistic regression w/ Newton's method and gaussian
-    discriminant analysis (GDA)
-#Generalized Linear Models (GLMs): poission regression
-#Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
+Linear Classifiers: logistic regression w/ Newton's method and gaussian
+    discriminant analysis (GDA)\
+Generalized Linear Models (GLMs): poission regression\
+Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
     and overfitting analysis on small datasets
 Imbalanced Dataset: vanilla logistic regression and resampled logistic regression
     performed on imbalanced dataset where the marginal distribution of the
