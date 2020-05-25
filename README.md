@@ -34,4 +34,4 @@ Kernelized Perceptron: perceptron binary classification algorithm w/ stochastic
     ![Non-PSD Kernel](pset2/graphs/kernel3.png) \
 Bayesian Interpretation and Regularization: analysis of the double descent
     phenomenon in ridge regression with various values for lamba optimizer
-    ![Double Descent](pset2/graphs/regularization.png) \
+    ![Double Descent](pset2/graphs/regularization.png)
