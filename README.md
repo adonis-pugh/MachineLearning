@@ -5,8 +5,8 @@ P-Set 1
 --------
 Linear Classifiers: logistic regression w/ Newton's method and gaussian
     discriminant analysis (GDA)\
-    ![Logistic Regression](pset1/graphs/logreg1.png) \
-    ![GDA](pset1/graphs/gda1.png) \
+    ![Logistic Regression](pset1/graphs/logreg2.png) \
+    ![GDA](pset1/graphs/gda2.png) \
 Generalized Linear Models (GLMs): poission regression\
     ![Poisson Regression](pset1/graphs/poisson.png) \
 Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
