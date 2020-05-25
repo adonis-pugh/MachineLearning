@@ -11,12 +11,14 @@ Generalized Linear Models (GLMs): poission regression\
     ![Poisson Regression](pset1/graphs/poisson.png) \
 Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
     and overfitting analysis on small datasets\
-    ![Polynomial Regression](pset1/graphs/polyreg3.png) \
+    ![Polynomial Regression](pset1/graphs/polyreg2.png) \
 Imbalanced Dataset: vanilla logistic regression and resampled logistic regression
     performed on imbalanced dataset where the marginal distribution of the
     classes/labels are imbalanced (many more negative examples than positive
     examples), dataset resampled with simple reweighting technique to improve
     classifier accuracy on positive examples
+    ![Vanilla Logistic Regression](pset1/graphs/logreg_vanilla.png) \
+    ![Resampled Logistic Regression](pset1/graphs/logreg_resample.png) \
                   
 P-Set 2
 --------
