@@ -6,9 +6,12 @@ P-Set 1
 Linear Classifiers: logistic regression w/ Newton's method and gaussian
     discriminant analysis (GDA)\
     ![Logistic Regression](pset1/graphs/logreg1.png) \
+    ![GDA](pset1/graphs/gda1.png) \
 Generalized Linear Models (GLMs): poission regression\
+    ![Poisson Regression](pset1/graphs/poisson.png) \
 Feature Maps: degree-n polynomial regression w/ and w/o sine transformation
     and overfitting analysis on small datasets\
+    ![Polynomial Regression](pset1/graphs/polyreg3.png) \
 Imbalanced Dataset: vanilla logistic regression and resampled logistic regression
     performed on imbalanced dataset where the marginal distribution of the
     classes/labels are imbalanced (many more negative examples than positive
